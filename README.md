@@ -1,2 +1,2 @@
 # proyectoPAR
-David
+Diseñar y implementar una base de datos
