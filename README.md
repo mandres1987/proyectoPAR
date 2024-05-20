@@ -23,6 +23,7 @@ Para solucionar este problema, el proyecto ATS utilizará las siguientes herrami
 Desarrollo Web (HTML, CSS, JavaScript):
 
 *Creación de una interfaz de usuario intuitiva y accesible para el ingreso y consulta de formatos ATS.
+
 Esto permitirá una interacción sencilla y eficiente con el sistema ATS.
 
 **Base de Datos (MySQL)**:
