@@ -24,7 +24,7 @@ Desarrollo Web (HTML, CSS, JavaScript):
 
 *Creación de una interfaz de usuario intuitiva y accesible para el ingreso y consulta de formatos ATS.
 
-Esto permitirá una interacción sencilla y eficiente con el sistema ATS.
+*Esto permitirá una interacción sencilla y eficiente con el sistema ATS.
 
 **Base de Datos (MySQL)**:
 
