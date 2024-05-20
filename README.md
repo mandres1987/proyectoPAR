@@ -14,7 +14,7 @@ Garantizar un entorno laboral seguro mediante la implementación de medidas de s
 * Proveer un sistema de búsqueda rápido y preciso basado en número de formato o identificación del trabajador.
 * Promover una cultura de seguridad laboral a través del seguimiento y evaluación continua de los formatos ATS.
 
-**Metodología y Herramientas**
+**Herramientas**
 Para lograr estos objetivos, utilizaremos las siguientes herramientas y métodos, cada una con su aporte específico al proyecto:
 
 Desarrollo Web (HTML, CSS, JavaScript):
