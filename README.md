@@ -39,6 +39,7 @@ La base de datos del proyecto ATS tendrá las siguientes aplicaciones:
 **Requisitos y características de la base de datos**:
 
 *Escalabilidad: Capacidad de crecer en volumen de datos y número de usuarios sin afectar el rendimiento.
+
 *Flexibilidad: Adaptabilidad a posibles cambios o nuevos requisitos en la gestión de formatos ATS.
 *Granularidad: Nivel de detalle y precisión en el almacenamiento de la información de los formatos.
 *Seguridad: Protección de los datos sensibles de los trabajadores y del sistema ATS ante accesos no autorizados.
