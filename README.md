@@ -28,6 +28,22 @@ Aplicación: Implementación de una base de datos relacional que permita consult
 
 En el proyecto que en el cual estamos trabajando consiste en una pagina web que nos ayude a llevar un control de los formatos diligenciados y que sean almacenados en una base de datos y nos sea facil buscarlos por medio de numero de formato o identificacion de la persona que los diligencie
 
+**Aplicaciones de la base de datos**:
+La base de datos del proyecto ATS tendrá las siguientes aplicaciones:
+
+*Almacenamiento centralizado y organizado de los formatos ATS.
+*Consulta rápida y eficiente de los formatos por número o identificación del trabajador.
+*Generación de reportes y análisis de tendencias sobre los riesgos laborales identificados.
+*Contribución a la empresa/entidad al mejorar la gestión de la seguridad laboral y el cumplimiento normativo.
+
+**Requisitos y características de la base de datos**:
+
+*Escalabilidad: Capacidad de crecer en volumen de datos y número de usuarios sin afectar el rendimiento.
+*Flexibilidad: Adaptabilidad a posibles cambios o nuevos requisitos en la gestión de formatos ATS.
+*Granularidad: Nivel de detalle y precisión en el almacenamiento de la información de los formatos.
+*Seguridad: Protección de los datos sensibles de los trabajadores y del sistema ATS ante accesos no autorizados.
+*Disponibilidad: Acceso rápido y confiable a la información cuando se requiera.
+
 **Problema principal**
 El problema principal del proyecto ATS (Análisis de Trabajo Seguro) radica en la necesidad de mejorar la gestión y accesibilidad de los formatos ATS, los cuales son cruciales para identificar y mitigar los riesgos laborales.
 Actualmente, estos formatos pueden estar dispersos, ser difíciles de acceder rápidamente, o no estar adecuadamente organizados, lo que puede llevar a ineficiencias y posibles fallas en la implementación de medidas de seguridad.
