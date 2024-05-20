@@ -16,11 +16,20 @@ Garantizar un entorno laboral seguro mediante la implementación de medidas de s
 
 **Herramientas**
 Para lograr estos objetivos, utilizaremos las siguientes herramientas y métodos, cada una con su aporte específico al proyecto:
+Solución utilizando herramientas/métodos:
+
+Para solucionar este problema, el proyecto ATS utilizará las siguientes herramientas y métodos:
 
 Desarrollo Web (HTML, CSS, JavaScript):
 
-Creación de una interfaz de usuario intuitiva y accesible para el ingreso y consulta de formatos ATS.
-Aplicación: Diseño y desarrollo de la página web donde se ingresarán y visualizarán los datos.
+*Creación de una interfaz de usuario intuitiva y accesible para el ingreso y consulta de formatos ATS.
+Esto permitirá una interacción sencilla y eficiente con el sistema ATS.
+
+**Base de Datos (MySQL)**:
+
+**Almacenamiento estructurado y seguro de los formatos ATS en una base de datos relacional.
+Esto facilitará la organización, búsqueda y recuperación rápida de la información.
+
 
 Base de Datos(MySQL)
 Almacenamiento estructurado y seguro de los formatos ATS.
@@ -70,3 +79,5 @@ Sin un sistema robusto, los datos sensibles pueden estar en riesgo de accesos no
 Seguimiento y Evaluación Limitada:
 
 La capacidad de realizar un seguimiento continuo y evaluar la efectividad de las medidas de seguridad implementadas se ve restringida sin una base de datos centralizada y eficiente.
+
+
