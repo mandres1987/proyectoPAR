@@ -135,5 +135,23 @@ Recopilar retroalimentación de los usuarios y realizar mejoras continuas en la 
 Monitorear los indicadores clave de desempeño (KPI) relacionados con la seguridad laboral y el ATS para medir el impacto de las mejoras implementadas.
 Implementando estas estrategias, se puede mejorar significativamente la gestión y accesibilidad de los formatos ATS, lo que a su vez contribuirá a una mejor identificación y mitigación de los riesgos laborales, y a una mayor seguridad en el lugar de trabajo.
 
+**Asignacion de punto de trabajo a integrantes del grupo** : 
+Por supuesto, dividir el trabajo en equipos o personas puede facilitar la gestión del proyecto. Aquí te propongo una división del trabajo en tres roles principales, junto con sus responsabilidades:
 
+1. **Desarrollador Web: Michell Andres Sanchez**
+   - Responsable de la creación de la interfaz de usuario y la funcionalidad de la plataforma web ATS.
+   - Utiliza HTML, CSS y JavaScript para desarrollar una interfaz intuitiva y accesible.
+   - Trabaja en colaboración con el equipo de base de datos para integrar la aplicación web con la base de datos MySQL.
+   - Asegura que la plataforma sea compatible con diferentes dispositivos y navegadores.
 
+2. **Administrador de Base de Datos:David Bordad**
+   - Encargado de diseñar y mantener la base de datos relacional MySQL para almacenar los formatos ATS.
+   - Crea la estructura de la base de datos, incluyendo tablas, relaciones y restricciones.
+   - Implementa medidas de seguridad para proteger la información sensible de los trabajadores.
+   - Colabora con el equipo de desarrollo web para garantizar una integración fluida entre la aplicación web y la base de datos.
+
+3. **Especialista en Seguridad y Capacitación: Miguel goyeneche**
+   - Responsable de diseñar e implementar medidas de seguridad y protección de datos en la plataforma ATS.
+   - Capacita al personal sobre la importancia del ATS, los riesgos laborales y las medidas de seguridad.
+   - Desarrolla políticas y procedimientos para garantizar el cumplimiento de las normativas de protección de datos.
+   - Realiza auditorías periódicas para verificar el cumplimiento de los estándares de seguridad.
