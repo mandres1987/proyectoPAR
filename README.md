@@ -143,13 +143,13 @@ Implementando estas estrategias, se puede mejorar significativamente la gestión
    - Trabaja en colaboración con el equipo de base de datos para integrar la aplicación web con la base de datos MySQL.
    - Asegura que la plataforma sea compatible con diferentes dispositivos y navegadores.
 
-2. **Administrador de Base de Datos:David Bordad**
+2. **Administrador de Base de Datos: David Borda**
    - Encargado de diseñar y mantener la base de datos relacional MySQL para almacenar los formatos ATS.
    - Crea la estructura de la base de datos, incluyendo tablas, relaciones y restricciones.
    - Implementa medidas de seguridad para proteger la información sensible de los trabajadores.
    - Colabora con el equipo de desarrollo web para garantizar una integración fluida entre la aplicación web y la base de datos.
 
-3. **Especialista en Seguridad y Capacitación: Miguel goyeneche**
+3. **Especialista en Seguridad y Capacitación: Miguel Goyeneche**
    - Responsable de diseñar e implementar medidas de seguridad y protección de datos en la plataforma ATS.
    - Capacita al personal sobre la importancia del ATS, los riesgos laborales y las medidas de seguridad.
    - Desarrolla políticas y procedimientos para garantizar el cumplimiento de las normativas de protección de datos.
