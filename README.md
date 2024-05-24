@@ -136,7 +136,6 @@ Monitorear los indicadores clave de desempeño (KPI) relacionados con la segurid
 Implementando estas estrategias, se puede mejorar significativamente la gestión y accesibilidad de los formatos ATS, lo que a su vez contribuirá a una mejor identificación y mitigación de los riesgos laborales, y a una mayor seguridad en el lugar de trabajo.
 
 **Asignacion de punto de trabajo a integrantes del grupo** : 
-Por supuesto, dividir el trabajo en equipos o personas puede facilitar la gestión del proyecto. Aquí te propongo una división del trabajo en tres roles principales, junto con sus responsabilidades:
 
 1. **Desarrollador Web: Michell Andres Sanchez**
    - Responsable de la creación de la interfaz de usuario y la funcionalidad de la plataforma web ATS.
