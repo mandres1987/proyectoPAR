@@ -1,4 +1,4 @@
-#Seguridad y capacitacion
+# Seguridad y capacitacion
 
 Estos son el desarrollo de los objetivos de la area de seguridad y capacitacion:
 
