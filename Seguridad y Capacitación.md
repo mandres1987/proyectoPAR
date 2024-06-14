@@ -1,8 +1,12 @@
-Estos son el desarrollo de los objetivos de la area de seguridad y capaciotacion:
+**seguridad y capacitacion**
+
+Estos son el desarrollo de los objetivos de la area de seguridad y capacitacion:
 
 1. Para diseñar e implementar medidas de seguridad y protección de datos en una plataforma de Análisis de Trabajo Seguro (ATS), se deben considerar los siguientes aspectos:
 a) Implementación de Control de Acceso:
+
 --Configurar roles y permisos para restringir el acceso a datos a personal autorizado solo.
+
 Utilizar autenticación de dos factores para mejorar la seguridad de la autenticación de usuarios.
 b) Protección de Datos:
 -Consentimiento Expreso: Obtener consentimiento explícito de los candidatos antes de recopilar sus datos.
