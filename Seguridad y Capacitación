@@ -1,2 +1,19 @@
 Estos son el desarrollo de los objetivos de la area de seguridad y capaciotacion:
 
+1. Para diseñar e implementar medidas de seguridad y protección de datos en una plataforma de Análisis de Trabajo Seguro (ATS), se deben considerar los siguientes aspectos:
+a) Implementación de Control de Acceso:
+--Configurar roles y permisos para restringir el acceso a datos a personal autorizado solo.
+Utilizar autenticación de dos factores para mejorar la seguridad de la autenticación de usuarios.
+b) Protección de Datos:
+-Consentimiento Expreso: Obtener consentimiento explícito de los candidatos antes de recopilar sus datos.
+-Notificación de Brecha de Datos: Establecer un procedimiento de notificación en caso de una brecha de datos, y tener un equipo de respuesta a incidentes capacitado para reaccionar rápidamente.
+c) Seguridad de la Información:
+-Cifrado de Datos: Utilizar protocolos de cifrado para proteger la información de los candidatos.
+-Certificaciones y Accreditaciones: Verificar si el proveedor de ATS tiene certificaciones como ISO 27001, que garantizan la implementación de un sistema de gestión de seguridad de la información.
+d) Transparencia y Control:
+-Política de Privacidad: Proporcionar una política de privacidad clara y transparente a los candidatos sobre cómo se utilizarán y almacenarán sus datos.
+-Acceso y Actualización de Datos: Proporcionar a los candidatos la capacidad de acceder, actualizar y solicitar la eliminación de sus datos según sea necesario.
+e) Evaluación y Mejora Continua:
+-Auditorías y Cuestionarios de Seguridad: Realizar auditorías y cuestionarios de seguridad periódicos para evaluar y mejorar las prácticas de seguridad y protección de datos del ATS.
+
+Al implementar estas medidas, se puede garantizar la seguridad y protección de los datos de los candidatos, cumpliendo con las regulaciones de privacidad y protección de datos relevantes.
