@@ -16,3 +16,14 @@
    * **Análisis de datos:** Implementar un sistema de análisis de datos para identificar tendencias, patrones y áreas de mayor riesgo en el lugar de trabajo.
    * **Generación de informes:** Generar informes automáticos que resuman los hallazgos de las evaluaciones de riesgos, incidentes reportados y acciones preventivas tomadas.
 
+3. **Optimización de la gestión de formatos ATS:**
+
+   * **Base de datos centralizada:** Crear una base de datos centralizada y organizada para almacenar todos los formatos ATS de manera segura y accesible.
+   * **Digitalización de documentos:** Digitalizar los formatos ATS existentes para facilitar su consulta y análisis.
+   * **Herramientas de búsqueda:** Implementar un sistema de búsqueda rápido y preciso que permita encontrar fácilmente los formatos ATS por número de formato o identificación del trabajador.
+
+4. **Seguimiento y evaluación continua:**
+
+   * **Monitoreo del desempeño:** Establecer indicadores clave de rendimiento (KPIs) para medir la efectividad del sistema SST y realizar un seguimiento del progreso en la mejora de la seguridad laboral.
+   * **Auditorías y evaluaciones:** Realizar auditorías y evaluaciones periódicas del sistema SST para identificar áreas de mejora y garantizar su cumplimiento con las normas y regulaciones aplicables.
+   * **Retroalimentación y participación:** Fomentar la participación activa de los empleados en la identificación de riesgos, el desarrollo de soluciones y la mejora continua del sistema SST.
