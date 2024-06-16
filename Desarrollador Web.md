@@ -36,4 +36,5 @@ Mantener la calidad del código es crucial para la sostenibilidad a largo plazo 
 El desarrollo de la interfaz de usuario y la funcionalidad de una plataforma ATS requiere una combinación de habilidades técnicas y colaboración eficaz. Utilizando HTML, CSS y JavaScript, y trabajando estrechamente con el equipo de base de datos para integrar MySQL, se puede crear una plataforma intuitiva, accesible y compatible con una variedad de dispositivos y navegadores. Mantener la calidad del código y estar al día con las tendencias tecnológicas asegura que la plataforma siga siendo eficiente y relevante. Este enfoque integral es esencial para desarrollar una plataforma ATS exitosa que satisfaga las necesidades de sus usuarios.
 
 
-*Documentacion del desarrollo  web se encuentra en nuestro repositorio llamdo ProyectoPAR/desarrollado Web.docx o puedes seguir este link: https://github.com/mandres1987/proyectoPAR/blob/main/Desarrollador%20Web.docx
+*Documentacion del desarrollo  web se encuentra en nuestro repositorio llamdo ProyectoPAR/desarrollado Web.docx o puedes seguir este link: 
+https://docs.google.com/document/d/1hqtjdMC9Soedrg6C6rpLFDjP1J9Ef0h2/edit?usp=sharing&ouid=103948479486010253831&rtpof=true&sd=true
