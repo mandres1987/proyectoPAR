@@ -91,3 +91,5 @@ SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS;
 ```
 ## Paso 2: Insertar los datos a las Tablas
 
+El llenado de las tablas se realizo directamente de importacion de tabla por tabla, ya creada la base de datos llamada atsq damos click izquierdo saldra una serie de opciones que en la cual escojemos:
+![image](https://github.com/mandres1987/proyectoPAR/assets/170149039/a3698d75-22b1-4c18-817a-ae8cbd37209c)
