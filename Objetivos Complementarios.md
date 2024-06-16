@@ -27,3 +27,15 @@
    * **Monitoreo del desempeño:** Establecer indicadores clave de rendimiento (KPIs) para medir la efectividad del sistema SST y realizar un seguimiento del progreso en la mejora de la seguridad laboral.
    * **Auditorías y evaluaciones:** Realizar auditorías y evaluaciones periódicas del sistema SST para identificar áreas de mejora y garantizar su cumplimiento con las normas y regulaciones aplicables.
    * **Retroalimentación y participación:** Fomentar la participación activa de los empleados en la identificación de riesgos, el desarrollo de soluciones y la mejora continua del sistema SST.
+
+*Beneficios:*
+
+* *Reducción de accidentes y enfermedades laborales:* Un entorno laboral seguro y saludable conduce a una disminución significativa de los accidentes, enfermedades ocupacionales y costos asociados.
+* *Mejora de la productividad:* Los empleados sanos y seguros son más productivos y eficientes en su trabajo.
+* *Mayor compromiso de los empleados:* Un ambiente de trabajo seguro y positivo fomenta el compromiso y la satisfacción de los empleados.
+* *Reducción de costos:* La prevención de accidentes y enfermedades laborales genera ahorros significativos en costos médicos, indemnizaciones y seguros.
+* *Mejora de la imagen de la empresa:* Una empresa comprometida con la seguridad y salud de sus trabajadores proyecta una imagen positiva y responsable ante la sociedad.
+
+*Conclusión:*
+
+La implementación de un Sistema Integral de Seguridad y Salud en el Trabajo (SST) es una inversión fundamental para cualquier empresa que busca crear un entorno laboral seguro, eficiente y saludable para sus empleados. Los beneficios de un sistema SST efectivo son numerosos e incluyen la reducción de accidentes y enfermedades laborales, la mejora de la productividad, el mayor compromiso de los empleados, la reducción de costos y la mejora de la imagen de la empresa.
