@@ -292,7 +292,7 @@ Para llevar esta tabla a 2NF, debemos eliminar las dependencias parciales. Obser
 | 1         | Diurno        |
 | 2         | Nocturno      |
 
-```
+
 
 
 
