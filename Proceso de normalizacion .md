@@ -1,5 +1,6 @@
 ### Importancia de Mostrar Usuarios sin Normalización Previo a la Normalización
 **tabla con los datos que se van a trabajar**
+
 En el proceso de normalización de datos, es fundamental comprender la estructura y la calidad de los datos originales antes de aplicar cualquier técnica de normalización. La visualización inicial de los datos sin alteraciones proporciona una base clara y concreta sobre la cual se pueden fundamentar las decisiones y acciones posteriores en el contexto del tratamiento de datos.
 
 #### Claridad en la Interpretación de los Datos Originales
@@ -49,7 +50,7 @@ Mostrar los datos en su forma original proporciona una base sólida para la impl
 
 
 
-### 1 forna de normalizacion  
+### 1 forma de normalizacion  
 
 La normalización en bases de datos es un proceso fundamental para organizar la estructura de los datos de manera eficiente y sin redundancias, asegurando así la integridad y consistencia de la información. Este ensayo se enfocará en la primera forma normal (1FN), la cual es el primer paso crucial en el proceso de normalización.
 
