@@ -296,7 +296,7 @@ Para llevar esta tabla a 2NF, debemos eliminar las dependencias parciales. Obser
 ```
 
 
-# Tercera Forma de Normalización (3NF)
+##Tercera Forma de Normalización (3NF)
 
 La normalización de bases de datos es un proceso crucial para organizar los datos de manera que se minimicen las redundancias y se optimice la integridad de los datos. La Tercera Forma Normal (3NF) es un nivel avanzado de normalización que se basa en las formas anteriores (1NF y 2NF) y tiene el objetivo de eliminar dependencias transitivas.
 
@@ -459,6 +459,7 @@ La 3NF se basa en la 2NF y elimina las dependencias transitivas, garantizando qu
 En resumen, la normalización a través de 1NF, 2NF y 3NF es un proceso fundamental para diseñar bases de datos robustas y eficientes. Cada nivel de normalización aborda diferentes tipos de redundancias y dependencias, asegurando que la base de datos sea fácil de mantener, consistente y optimizada para el rendimiento.
 
 
-#**puedes descargar la base de datos en con su normalizacion en el siguiente link* https://drive.google.com/file/d/1MiDZFwbkoJcRHW6mHUix5tE3bCSBmCYv/view?usp=sharing  
+#**puedes descargar la base de datos en con su normalizacion en el siguiente link*
+https://drive.google.com/file/d/1MiDZFwbkoJcRHW6mHUix5tE3bCSBmCYv/view?usp=sharing  
 
 
