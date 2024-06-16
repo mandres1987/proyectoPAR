@@ -169,7 +169,7 @@ Supongamos que en la tabla "Empleados Eliminados" tenemos datos de empleados don
 
 #### Transformación para cumplir con la 1FN
 
-Veamos cómo podría lucir la tabla "Empleados Eliminados" después de aplicar la 1FN:
+ la tabla "Empleados Eliminados" después de aplicar la 1FN:
 
 | Codigo_Empleado | Profesion          | Salario | Dias_Laborales | Horas_Trabajo_Semanales | Estado_Civil | Numero_Hijos |
 |-----------------|--------------------|---------|----------------|-------------------------|--------------|--------------|
@@ -190,7 +190,6 @@ La aplicación de la Primera Forma Normal (1FN) es esencial para garantizar la c
 
 3. **Mejora el rendimiento**: La estructura normalizada puede mejorar el rendimiento de las consultas y operaciones en la base de datos.
 
-Claro, aquí tienes un ensayo que explica la normalización de la base de datos descrita en el formato Markdown:
 
 ---
 
@@ -460,6 +459,6 @@ En resumen, la normalización a través de 1NF, 2NF y 3NF es un proceso fundamen
 
 
 #**puedes descargar la base de datos en con su normalizacion en el siguiente link*
-https://drive.google.com/file/d/1MiDZFwbkoJcRHW6mHUix5tE3bCSBmCYv/view?usp=drive_link
+https://docs.google.com/spreadsheets/d/18iXMK55lR38XrMaQ6gdIuq0Buk1e9g1p/edit?usp=sharing&ouid=103948479486010253831&rtpof=true&sd=true
 
 
