@@ -4,3 +4,4 @@ Este es un texto en Markdown, y <span style="color: red;">este texto es rojo</sp
 
 **⚠️ Importante:** Este es un texto resaltado.
 
+Este es  en Markdown, y <span style="color: red;">este texto es rojo</span>.
