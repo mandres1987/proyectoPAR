@@ -66,7 +66,7 @@ Para ilustrar la importancia de la 1FN, consideremos una base de datos simplific
 
 1. **Tabla Personal**
    - Columnas: Cedula, Nombre, Apellido, Nombre compuesto, Edad, Email, Cargo, Fecha_Ingreso, Departamento, Jefe_Inmediato, Nivel_Riesgo, Turno, Fecha_Nacimiento, Género
-Here are the first few rows of the dataset provided:
+
 
 | Cedula   | Nombre     | Apellido   | Nombre compuesto    | Edad | Email                      | Cargo                  | Fecha_Ingreso | Departamento        | Jefe_Inmediato   | Nivel_Riesgo | Turno     | Fecha_Nacimiento | Genero    |
 |----------|------------|------------|---------------------|------|----------------------------|------------------------|---------------|---------------------|------------------|--------------|-----------|------------------|-----------|
@@ -79,7 +79,7 @@ Here are the first few rows of the dataset provided:
 
 This table includes information such as ID (Cedula), full name (Nombre, Apellido), compounded name (Nombre compuesto), age (Edad), email (Email), job title (Cargo), start date (Fecha_Ingreso), department (Departamento), immediate supervisor (Jefe_Inmediato), risk level (Nivel_Riesgo), shift (Turno), date of birth (Fecha_Nacimiento), and gender (Genero).
 
-Let me know if there's anything specific you would like to explore or analyze further!
+
 2. **Tabla Empresa**
    - Columnas: Cod_empresa, Empresa, Dirección, Teléfono, País, Ciudad
      Aquí está la lista de empresas organizada de manera más legible y completa:
