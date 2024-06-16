@@ -459,6 +459,6 @@ En resumen, la normalización a través de 1NF, 2NF y 3NF es un proceso fundamen
 
 
 #**puedes descargar la base de datos en con su normalizacion en el siguiente link*
-https://docs.google.com/spreadsheets/d/18iXMK55lR38XrMaQ6gdIuq0Buk1e9g1p/edit?usp=sharing&ouid=103948479486010253831&rtpof=true&sd=true
+[Link](https://docs.google.com/spreadsheets/d/18iXMK55lR38XrMaQ6gdIuq0Buk1e9g1p/edit?usp=sharing&ouid=103948479486010253831&rtpof=true&sd=true).
 
 
