@@ -4,5 +4,5 @@ Una vez hayamos aplicado la normalización a nuestra base de datos procedemos a 
 
 ## Paso 1: Creación de la Base de Datos y las Tablas
 
-Procederemos a crear la base de datos y las tablas usando los archivos que ya se subieron previamente normalizados.
+Procederemos a crear la base de datos y las tablas usando los archivos que ya se subieron previamente normalizados, donde encontramos la base datos en crudo con el nombre Base de Datos Cruda.md y las tablas normalizadas estan en el apartado Proceso de normalizacion.md al final encontraran el link para descargar el archivo correspondiente
 
