@@ -92,4 +92,34 @@ SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS;
 ## Paso 2: Insertar los datos a las Tablas
 
 El llenado de las tablas se realizo directamente de importacion de tabla por tabla, ya creada la base de datos llamada atsq damos click izquierdo saldra una serie de opciones que en la cual escojemos:
+
 ![image](https://github.com/mandres1987/proyectoPAR/assets/170149039/a3698d75-22b1-4c18-817a-ae8cbd37209c)
+
+segun la imagen elegimos la opcion Table data import wizard, despues buscamos el archivo guardado en formato cvs 
+
+![image](https://github.com/mandres1987/proyectoPAR/assets/170149039/57ad2acb-311c-493c-ae50-46dacd52894c)
+
+y de damos click en next a todas las ventanas que nos valla saliendo hasta el fin
+le damos a actualizar 
+
+![image](https://github.com/mandres1987/proyectoPAR/assets/170149039/8bdb6ebb-db3c-4bc4-8516-71480048a611)
+
+y ya nos va aparecer la tabla con sus respectivos datos
+tabla personal
+![image](https://github.com/mandres1987/proyectoPAR/assets/170149039/89574e7d-857d-432a-a1f6-3f8774fbc703)
+tabla empresa
+![image](https://github.com/mandres1987/proyectoPAR/assets/170149039/fc7e22fc-4ad7-4511-acf5-f6997d481055)
+tabla pais
+![image](https://github.com/mandres1987/proyectoPAR/assets/170149039/85f5b260-9b55-4897-a572-8ce977c660a4)
+tabla turno
+![image](https://github.com/mandres1987/proyectoPAR/assets/170149039/fa5c179d-d14a-43d8-b6c5-ee51b6f81e42)
+tabla riesgosprofesionales
+![image](https://github.com/mandres1987/proyectoPAR/assets/170149039/dcf0496f-c037-4a66-81df-91c57534286f)
+
+
+
+
+
+
+
+
