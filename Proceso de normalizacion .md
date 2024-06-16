@@ -1,5 +1,5 @@
 ### Importancia de Mostrar Usuarios sin Normalización Previo a la Normalización
-
+**tabla con los datos que se van a trabajar**
 En el proceso de normalización de datos, es fundamental comprender la estructura y la calidad de los datos originales antes de aplicar cualquier técnica de normalización. La visualización inicial de los datos sin alteraciones proporciona una base clara y concreta sobre la cual se pueden fundamentar las decisiones y acciones posteriores en el contexto del tratamiento de datos.
 
 #### Claridad en la Interpretación de los Datos Originales
@@ -43,8 +43,13 @@ Mostrar los datos en su forma original proporciona una base sólida para la impl
 | 68              | Fernanda   | Martínez    | 27   | 88889999 | Ingeniera Ambiental         | AmbientalTech         | 4545 Calle Cuarenta y Ocho | 555-0101   | fernanda.martinez@example.com      | 23/01/2017   | 65000.0 | Medio Ambiente        | Ingeniera Ambiental     | Carlos Sánchez   | 3            | Diurno   | Lunes a Viernes    | 40                      | 12/09/1994       | Femenino  | Soltera      | 0            | Venezuela          | Caracas           |
 | 69              | Pablo      | Fuentes     | 34   | 99990000 | Psiquiatra                  | MentalHealthClinic   | 4646 Calle Cuarenta y Nueve | 555-0303   | pablo.fuentes@example.com          | 22/02/2016   | 69000.0 | Salud                 | Psiquiatra              | Ana Pérez        | 4            | Diurno   | Lunes a Viernes    | 40                      | 21/12/1988       | Masculino | Casado       | 2            | República Dominicana | Santo Domingo     |
 | 70              | Natalia    | Gómez       | 26   | 11112222 | Ingeniera de Sistemas       | TechSolutions         | 4747 Calle Cincuenta     | 555-050
+---
 
-### 1 Formalizacion 
+
+
+
+
+### 1 forna de normalizacion  
 
 La normalización en bases de datos es un proceso fundamental para organizar la estructura de los datos de manera eficiente y sin redundancias, asegurando así la integridad y consistencia de la información. Este ensayo se enfocará en la primera forma normal (1FN), la cual es el primer paso crucial en el proceso de normalización.
 
