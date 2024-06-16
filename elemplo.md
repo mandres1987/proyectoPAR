@@ -1,1 +1,6 @@
-https://github.com/saguileran/ETITC-2024-1/blob/main/DataBases_I/ProjectGuideLines.md#3-implementaci%C3%B3n-de-la-base-de-datos
+# Ejemplo de Coloreado de Texto en Markdown
+
+Este es un texto en Markdown, y <span style="color: red;">este texto es rojo</span>. También puedes utilizar **negrita** o _cursiva_ para resaltar texto.
+
+**⚠️ Importante:** Este es un texto resaltado.
+
