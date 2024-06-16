@@ -458,7 +458,7 @@ La 3NF se basa en la 2NF y elimina las dependencias transitivas, garantizando qu
 En resumen, la normalización a través de 1NF, 2NF y 3NF es un proceso fundamental para diseñar bases de datos robustas y eficientes. Cada nivel de normalización aborda diferentes tipos de redundancias y dependencias, asegurando que la base de datos sea fácil de mantener, consistente y optimizada para el rendimiento.
 
 
-#**puedes descargar la base de datos en con su normalizacion en el siguiente link*
+#**puedes descargar la base de datos con su normalizacion en el siguiente link*
 [Link](https://docs.google.com/spreadsheets/d/18iXMK55lR38XrMaQ6gdIuq0Buk1e9g1p/edit?usp=sharing&ouid=103948479486010253831&rtpof=true&sd=true).
 
 
