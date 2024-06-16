@@ -293,6 +293,8 @@ Para llevar esta tabla a 2NF, debemos eliminar las dependencias parciales. Obser
 | 2         | Nocturno      |
 
 
+```
+
 
 # Tercera Forma de Normalización (3NF)
 
