@@ -106,16 +106,27 @@ le damos a actualizar
 
 y ya nos va aparecer la tabla con sus respectivos datos
 tabla personal
+
 ![image](https://github.com/mandres1987/proyectoPAR/assets/170149039/89574e7d-857d-432a-a1f6-3f8774fbc703)
+
 tabla empresa
+
 ![image](https://github.com/mandres1987/proyectoPAR/assets/170149039/fc7e22fc-4ad7-4511-acf5-f6997d481055)
+
 tabla pais
+
 ![image](https://github.com/mandres1987/proyectoPAR/assets/170149039/85f5b260-9b55-4897-a572-8ce977c660a4)
+
 tabla turno
+
 ![image](https://github.com/mandres1987/proyectoPAR/assets/170149039/fa5c179d-d14a-43d8-b6c5-ee51b6f81e42)
+
 tabla riesgosprofesionales
+
 ![image](https://github.com/mandres1987/proyectoPAR/assets/170149039/dcf0496f-c037-4a66-81df-91c57534286f)
 
+
+## Paso 3: consultas SQL
 
 
 
