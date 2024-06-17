@@ -89,6 +89,10 @@ SET SQL_MODE=@OLD_SQL_MODE;
 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS;
 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS;
 ```
+##Ingenieria Inversa
+![image](https://github.com/mandres1987/proyectoPAR/assets/169571131/3050f3f1-d694-4ebc-a85b-9e4591bde012)
+
+
 ## Paso 2: Insertar los datos a las Tablas
 
 El llenado de las tablas se realizo directamente de importacion de tabla por tabla, ya creada la base de datos llamada atsq damos click izquierdo saldra una serie de opciones que en la cual escojemos:
