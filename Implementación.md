@@ -129,7 +129,136 @@ y ya nos va aparecer la tabla con sus respectivos datos
 
 ## Paso 3: consultas SQL
 
+1.  Listar todos los turnos
 
+```sql
+SELECT * FROM atsq.turno;
+```
+![image](https://github.com/mandres1987/proyectoPAR/assets/170149039/e7ebd7d9-70dc-4e6c-8e67-08d554af151f)
+
+2. Listar empresas por país
+
+```sql
+SELECT e.Empresa, p.Pais
+FROM atsq.empresa e
+JOIN atsq.pais p ON e.Pais = p.cod_pais;
+```
+![image](https://github.com/mandres1987/proyectoPAR/assets/170149039/ad5793ad-719a-4e85-bab7-957bea3d80f9)
+
+3. Listar empleados por departamento
+
+```sql
+SELECT p.Nombre, p.Apellido, p.Departamento
+FROM atsq.personal p;
+```
+![image](https://github.com/mandres1987/proyectoPAR/assets/170149039/50739e97-25b3-4fd4-a883-c4533a71a7e7)
+
+4. Listar empleados por nivel de riesgo
+
+```sql
+SELECT p.Nombre, p.Apellido, p.Nivel_Riesgo
+FROM atsq.personal p
+ORDER BY p.Nivel_Riesgo;
+```
+![image](https://github.com/mandres1987/proyectoPAR/assets/170149039/1e32d89c-5cc2-4adb-b6fc-79b347334b8a)
+
+5. Listar nombre por edad mayor a  29
+
+```sql
+SELECT Nombre
+FROM personal
+WHERE Edad > 29;
+```
+![image](https://github.com/mandres1987/proyectoPAR/assets/170149039/291e9d81-a312-4b08-9a0f-5529611b0769)
+
+6. Listar empleados por cargo
+
+```sql
+SELECT p.Nombre, p.Apellido, p.Cargo
+FROM atsq.personal p;
+```
+![image](https://github.com/mandres1987/proyectoPAR/assets/170149039/c9edee7f-332c-422c-9f96-77eaf9e52e6c)
+
+7. Listar empleados por edad
+
+```sql
+SELECT p.Nombre, p.Apellido, p.Edad
+FROM atsq.personal p
+ORDER BY p.Edad;
+```
+![image](https://github.com/mandres1987/proyectoPAR/assets/170149039/7a87b75b-96ef-4cf4-ad24-3d82180c0c9e)
+
+8.	Listar empleados por género femenino
+
+```sql
+SELECT *
+FROM personal
+WHERE Genero = 'Femenino';
+```
+![image](https://github.com/mandres1987/proyectoPAR/assets/170149039/440a347e-af3d-4ab3-a849-ce66582a005b)
+
+9. Listar nombre y apellido por fecha de nacimiento entre 15/11/1970 y 20/03/1998
+
+```sql
+SELECT Nombre, Apellido
+FROM atsq.personal
+WHERE Fecha_Nacimiento  BETWEEN '15/11/1970' AND '20/03/1998';
+```
+![image](https://github.com/mandres1987/proyectoPAR/assets/170149039/010b54c9-6960-49ed-a587-1b5ca2c0c17f)
+
+10. -- listar las ciudades del país Argentina
+
+```sql
+SELECT p.Ciudad
+FROM atsq.pais p
+WHERE p.Pais = 'Argentina';
+```
+![image](https://github.com/mandres1987/proyectoPAR/assets/170149039/1845ff13-ffef-4d8b-b488-3b512efd149d)
+
+11. obtener el nombre y el salario de los empleados que ganan más de 50000.0
+
+```sql
+SELECT p.Nombre, p.Apellido, p.Email, p.Cargo, p.Fecha_Ingreso, p.Departamento, p.Jefe_Inmediato, p.Nivel_Riesgo, p.Turno, p.Fecha_Nacimiento, p.Genero
+FROM atsq.personal p
+WHERE p.Email > '50000.0';
+```
+![image](https://github.com/mandres1987/proyectoPAR/assets/170149039/994961e9-2368-4c8c-b562-5efd31b48799)
+
+12. listar las personas que tienen en su profesión "Ingeniero"
+
+```sql
+SELECT * 
+FROM atsq.personal 
+WHERE Cargo LIKE '%Ingeniero%';
+```
+![image](https://github.com/mandres1987/proyectoPAR/assets/170149039/90dd52d2-5f31-49cf-8d44-2b92cdc9ad29)
+
+13. Listar fecha_ingreso entre dos fechas específicas
+
+```sql
+SELECT Fecha_Ingreso, Nombre, Apellido
+FROM atsq.personal
+WHERE Fecha_Ingreso BETWEEN '01/01/2019' AND '12/12/2021';
+```
+![image](https://github.com/mandres1987/proyectoPAR/assets/170149039/40ce3450-56b0-44e1-a31f-f338dcbc4dc3)
+
+14. listar los apellidos con terminación en "ez"
+
+```sql
+SELECT Apellido
+FROM atsq.personal
+WHERE Apellido LIKE '%ez';
+```
+![image](https://github.com/mandres1987/proyectoPAR/assets/170149039/14836793-726c-4516-8be2-330b8355a775)
+
+15. Listar nombres con turno diurno
+
+```sql
+SELECT Nombre, Turno
+FROM personal
+WHERE Turno = 'Diurno';
+```
+![image](https://github.com/mandres1987/proyectoPAR/assets/170149039/83405a0e-18c7-41d4-af17-bae2ef2be10a)
 
 
 
