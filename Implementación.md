@@ -9,8 +9,8 @@ Procederemos a crear la base de datos y las tablas usando los archivos que ya se
 ```sql
 -- crear base de datos atsq
 -- -----------------------------------------------------
-CREATE SCHEMA IF NOT EXISTS `atsq` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci ;
-USE `atsq` ;
+CREATE SCHEMA IF NOT EXISTS `atsq` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci;
+USE `atsq`;
 
 -- -----------------------------------------------------
 -- crear la tabla empresa`
