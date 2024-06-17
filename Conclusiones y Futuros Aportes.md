@@ -33,3 +33,17 @@ Para seguir mejorando y ampliando el alcance del proyecto ATS se proponen las si
 - **Análisis Predictivo**: Implementar herramientas de análisis predictivo que utilicen datos de formatos ATS para anticipar posibles riesgos y proponer medidas preventivas.
 - **Paneles de control personalizados**: Crear paneles de control personalizados que permitan a los usuarios ver de forma clara y completa datos relevantes, facilitando la toma de decisiones informadas.
 
+  ### Formación continua y sensibilización
+- **Programas de capacitación**: Desarrollar programas de educación continua para el personal enfocados en la importancia de los ATS y las mejores prácticas de seguridad en el lugar de trabajo.
+- **Materiales educativos**: Proporcionar recursos educativos interactivos y actualizados periódicamente que ayuden a mantener a los trabajadores informados y conscientes de los riesgos y las medidas de seguridad.
+
+### Seguridad y protección de datos
+- **Actualización de protocolos de seguridad**: Mantener y actualizar periódicamente los protocolos de seguridad para proteger la información confidencial de los trabajadores y cumplir con las normas de protección de datos aplicables.
+- **Backup y recuperación**: Implementar sistemas de respaldo y recuperación de datos más robustos, asegurando la integridad y disponibilidad de la información en todo momento.
+
+### Ampliación del sistema de notificaciones y alertas
+- **Alertas proactivas**: Desarrollar un sistema de alerta proactivo que notifique a los usuarios sobre posibles riesgos, vencimientos del formato ATS y otros eventos críticos que requieran atención inmediata.
+- **Personalización de notificaciones**: Permitir la personalización de notificaciones y alertas para que los usuarios puedan recibir información relevante según sus roles y responsabilidades.
+
+Estos futuros aportes ayudarán a fortalecer el sistema ATS, mejorar aún más la gestión de la seguridad en el lugar de trabajo y promover un entorno de trabajo seguro y saludable.
+
