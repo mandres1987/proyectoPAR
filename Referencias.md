@@ -1,4 +1,4 @@
-#Referencias usadas para este proyecto
+# Referencias usadas para este proyecto
 
 
 Gonzalez, F. (6 de JUNIO de 2023). https://datascope.io/es/blog/analisis-de-trabajo-seguro/. Obtenido de Análisis de Trabajo Seguro (ATS): herramienta para prevenir riesgos laborales: https://datascope.io/es/blog/analisis-de-trabajo-s
@@ -15,4 +15,6 @@ protocolo. (s.f.). protocolo. Obtenido de https://www.protocolo.org/modelos/invi
 
 tecnosoluciones. (s.f.). tecnosoluciones. Obtenido de https://tecnosoluciones.com/10-razones-para-usar-la-metodologia-kanban-en-tu-organizacion/
 wikipedia. (s.f.). wikipedia. Obtenido de https://es.wikipedia.org/wiki/Desarrollo_en_cascada
+
+Workbench(2024). una herramienta integral. Obtenido de https://www.mysql.com/products/workbench/
 
