@@ -37,4 +37,4 @@ El desarrollo de la interfaz de usuario y la funcionalidad de una plataforma ATS
 
 
 *Documentacion del desarrollo  web se encuentra en nuestro repositorio llamdo ProyectoPAR/desarrollado Web.docx o puedes seguir este link: 
-https://docs.google.com/document/d/1hqtjdMC9Soedrg6C6rpLFDjP1J9Ef0h2/edit?usp=sharing&ouid=103948479486010253831&rtpof=true&sd=true
+[Link]https://docs.google.com/document/d/1hqtjdMC9Soedrg6C6rpLFDjP1J9Ef0h2/edit?usp=sharing&ouid=103948479486010253831&rtpof=true&sd=true
